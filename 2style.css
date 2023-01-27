@@ -1,0 +1,36 @@
+.Welcome {
+    color:darkblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body { 
+    background-color:darkseagreen;
+    color:royalblue;
+}
+
+.bighead {
+    background-color: aqua;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: fit-content;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 8px;
+    padding-right: 8px;
+
+    border-radius: 10px;
+}
+
+.center-me {
+    display: flex;
+    justify-content: center;
+
+}
+
+li {
+    color:navy;
+}
+
+.flex {
+    display: flex;
+    justify-content: center;
+}

@@ -1,36 +1,36 @@
-.Welcome {
-    color:darkblue;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+img {
+    border-radius: 50%;
 }
 
-body { 
-    background-color:darkseagreen;
-    color:royalblue;
-}
-
-.bighead {
-    background-color: aqua;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    width: fit-content;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    padding-left: 8px;
-    padding-right: 8px;
-
-    border-radius: 10px;
-}
-
-.center-me {
+.center-box {
     display: flex;
     justify-content: center;
-
 }
 
-li {
-    color:navy;
+body {
+    background-color:darkolivegreen;
 }
 
-.flex {
+.myname {
+    color:black;
+    text-align: center;
+    font-size:3rem;
+    font-family:sans-serif;
+}
+
+h3 {
+    color:black
+    font-size:1rem;
+    font-family:sans-serif;
+}
+
+p{
+    color:aliceblue;
+    font: size 1.5rem;
+    font-family:sans-serif;
+}
+
+.s{
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
 }
